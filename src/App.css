@@ -1,0 +1,125 @@
+#container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:90vh;
+  flex-direction:column;
+}
+
+#container2{
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:60vh;
+  flex-direction:column;
+}
+#container3{
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:60vh;
+  flex-direction:column;
+}
+
+body{
+  height:100vh;
+}
+
+#linha_1{
+  display:flex
+}
+
+
+#linha_2{
+  display:flex
+}
+
+#linha_3{
+  display:flex
+}
+
+
+.linha{
+  width:26vw;
+  border:1px solid black;
+  height:7vw;
+}
+
+.caixa{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid black;
+  width:100%;
+  cursor:pointer;
+  font-size:3vw
+  
+}
+
+#div_btn_play{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+ 
+
+}
+
+#btn_play{
+  width:15vw;
+  height:5vw;
+  font-size:2.4vw;
+  cursor:pointer;
+  background-color:blue;
+  color:white;
+  border-color:blue;
+}
+
+#btn_play:hover{
+  opacity:0.8;
+}
+
+#btn_reiniciar{
+  width:15vw;
+  height:7vw;
+  font-size:2.4vw;
+  cursor:pointer;
+  background-color:blue;
+  color:white;
+  border-color:blue;
+}
+
+#btn_reiniciar:hover{
+  opacity:0.8;
+}
+
+#btn_reiniciarr{
+  width:15vw;
+  height:7vw;
+  font-size:2.4vw;
+  cursor:pointer;
+  background-color:blue;
+  color:white;
+  border-color:blue;
+}
+
+#btn_reiniciarr:hover{
+  opacity:0.8;
+}
+
+#btn_reiniciarrr{
+  width:15vw;
+  height:7vw;
+  font-size:2.4vw;
+  cursor:pointer;
+  background-color:blue;
+  color:white;
+  border-color:blue;
+  margin-top:1vw
+}
+
+#btn_reiniciarrr:hover{
+  opacity:0.8;
+}
